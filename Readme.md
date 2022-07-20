@@ -15,6 +15,7 @@ Users can pay and receive money from its account to its bank.
 
 ## Having an affiliate link associted with each subscriber
 Each subscriber should have its own link to the website where if someone subscribes with that link, they get to receive their share in their account
+Or a simpler way, every subscribed account has a code that people can subscribe with instead of having the link
 
 
 
